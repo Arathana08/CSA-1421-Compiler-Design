@@ -1,0 +1,10 @@
+COMPILERLAB - ONE-CLICK START GUIDE (Windows + VS Code)
+
+1. Extract the entire ZIP folder first (Right-click > Extract All).
+2. Double-click START_APP.bat inside "CD CAP"
+   - Automatically installs Python & npm packages (first run),
+   - Starts Flask Backend (port 5000) & Vite Frontend (port 5173),
+   - Opens http://localhost:5173 in your browser.
+
+Alternative (Inside VS Code):
+- Open the "CD CAP" folder in VS Code, open "run.py", and click the Play/Run button (top-right).
